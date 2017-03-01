@@ -27,3 +27,13 @@
 *.exe
 *.out
 *.app
+
+# Folders
+Binares/
+Intermediate/
+Saved/
+
+# VS
+*.db
+*.opendb
+*.VS.*
